@@ -1,13 +1,13 @@
 {
-  "name": "@tencent/koa-cas2",
+  "name": "koa-cas2",
   "version": "1.2.17",
   "main": "index.js",
   "license": "MIT",
   "author": "allanfish",
-  "homepage": "https://github.com/TencentWSRD/koa-cas",
+  "homepage": "https://github.com/satanrabbit/koa-cas",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TencentWSRD/koa-cas.git"
+    "url": "git+https://github.com/satanrabbit/koa-cas.git"
   },
   "engines": {
     "node": ">=6.0.0"
@@ -18,7 +18,7 @@
     "cov": "istanbul cover -x 'example/**' _mocha -- -R spec"
   },
   "bugs": {
-    "url": "https://github.com/TencentWSRD/koa-cas/issues"
+    "url": "https://github.com/satanrabbit/koa-cas/issues"
   },
   "maintainers": [
     {
