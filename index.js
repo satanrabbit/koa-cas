@@ -29,6 +29,7 @@ const DEFAULT_OPTIONS = {
   hooks: {
     before: null,
     after: null,
+    decodeOsl: null,
   },
   redirect: false,
   gateway: false,
